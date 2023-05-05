@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 
-# пп
+
 def index(request):
     return HttpResponse('У меня получилось!')
 
